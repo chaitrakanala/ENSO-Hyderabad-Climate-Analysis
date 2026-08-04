@@ -1,6 +1,9 @@
 # 🌍 Impact of ENSO on Hyderabad Climate (2010–2025)
 
 ## Overview
+# 🌍 Impact of ENSO on Hyderabad Climate (2010–2025)
+
+![ENSO Climate Analysis](ENSO_Subplots.png)
 
 This project investigates the influence of the El Niño–Southern Oscillation (ENSO) on rainfall, humidity, and temperature in Hyderabad, India, using monthly climate observations from 2010–2025.
 
@@ -59,9 +62,7 @@ The project was completed in Python using Google Colab as part of my climate dat
 - La Niña months exhibited the highest humidity.
 - Maximum temperatures were significantly lower during La Niña.
 - ONI showed weak but meaningful relationships with Hyderabad's climate variables.
-## Project Visualization
 
-![ENSO Climate Analysis](ENSO_Subplots.png)
 ---
 
 ## Repository Contents
